@@ -1,0 +1,44 @@
+* {
+    font-family: Helvetica;
+    background-color: azure;
+  }
+
+  .main-title {
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    color: khaki;
+    background-image: url("https://c.pxhere.com/photos/47/8b/tile_pattern_pastel_wall_mosaic-41265.jpg!d");
+    background-size: cover;
+  }
+  
+  h2 {
+    padding-left: 25px;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+  }
+  
+  span {
+    font-weight: bold;
+    color: blue;
+  }
+
+  .brushes {
+    background-color: mediumspringgreen;
+  }
+  
+  .frames {
+    background-color: lightsalmon;
+  }
+  .paint{
+    background-color: skyblue;
+  }
+
+  img {
+    width: 250px;
+    height: 250px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin-right:25px;
+  }
